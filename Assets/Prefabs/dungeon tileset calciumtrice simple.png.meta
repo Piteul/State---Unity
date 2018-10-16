@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: d1649f8ad37f61b45873e3769a4ff0de
+timeCreated: 1539687964
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dungeon tileset calciumtrice simple_0
+    21300002: dungeon tileset calciumtrice simple_1
+    21300004: dungeon tileset calciumtrice simple_2
+    21300006: dungeon tileset calciumtrice simple_3
+    21300008: dungeon tileset calciumtrice simple_4
+    21300010: dungeon tileset calciumtrice simple_5
+    21300012: dungeon tileset calciumtrice simple_6
+    21300014: dungeon tileset calciumtrice simple_7
+    21300016: dungeon tileset calciumtrice simple_8
+    21300018: dungeon tileset calciumtrice simple_9
+    21300020: dungeon tileset calciumtrice simple_10
+    21300022: dungeon tileset calciumtrice simple_11
+    21300024: dungeon tileset calciumtrice simple_12
+    21300026: dungeon tileset calciumtrice simple_13
+    21300028: dungeon tileset calciumtrice simple_14
+    21300030: dungeon tileset calciumtrice simple_15
+    21300032: dungeon tileset calciumtrice simple_16
+    21300034: dungeon tileset calciumtrice simple_17
+    21300036: dungeon tileset calciumtrice simple_18
+    21300038: dungeon tileset calciumtrice simple_19
+    21300040: dungeon tileset calciumtrice simple_20
+    21300042: dungeon tileset calciumtrice simple_21
+    21300044: dungeon tileset calciumtrice simple_22
+    21300046: dungeon tileset calciumtrice simple_23
+    21300048: dungeon tileset calciumtrice simple_24
+    21300050: dungeon tileset calciumtrice simple_25
+    21300052: dungeon tileset calciumtrice simple_26
+    21300054: dungeon tileset calciumtrice simple_27
+    21300056: dungeon tileset calciumtrice simple_28
+    21300058: dungeon tileset calciumtrice simple_29
+    21300060: dungeon tileset calciumtrice simple_30
+    21300062: dungeon tileset calciumtrice simple_31
+    21300064: dungeon tileset calciumtrice simple_32
+    21300066: dungeon tileset calciumtrice simple_33
+    21300068: dungeon tileset calciumtrice simple_34
+    21300070: dungeon tileset calciumtrice simple_35
+    21300072: dungeon tileset calciumtrice simple_36
+    21300074: dungeon tileset calciumtrice simple_37
+    21300076: dungeon tileset calciumtrice simple_38
+    21300078: dungeon tileset calciumtrice simple_39
+    21300080: dungeon tileset calciumtrice simple_40
+    21300082: dungeon tileset calciumtrice simple_41
+    21300084: dungeon tileset calciumtrice simple_42
+    21300086: dungeon tileset calciumtrice simple_43
+    21300088: dungeon tileset calciumtrice simple_44
+    21300090: dungeon tileset calciumtrice simple_45
+    21300092: dungeon tileset calciumtrice simple_46
+    21300094: dungeon tileset calciumtrice simple_47
+    21300096: dungeon tileset calciumtrice simple_48
+    21300098: dungeon tileset calciumtrice simple_49
+    21300100: dungeon tileset calciumtrice simple_50
+    21300102: dungeon tileset calciumtrice simple_51
+    21300104: dungeon tileset calciumtrice simple_52
+    21300106: dungeon tileset calciumtrice simple_53
+    21300108: dungeon tileset calciumtrice simple_54
+    21300110: dungeon tileset calciumtrice simple_55
+    21300112: dungeon tileset calciumtrice simple_56
+    21300114: dungeon tileset calciumtrice simple_57
+    21300116: dungeon tileset calciumtrice simple_58
+    21300118: dungeon tileset calciumtrice simple_59
+    21300120: dungeon tileset calciumtrice simple_60
+    21300122: dungeon tileset calciumtrice simple_61
+    21300124: dungeon tileset calciumtrice simple_62
+    21300126: dungeon tileset calciumtrice simple_63
+    21300128: dungeon tileset calciumtrice simple_64
+    21300130: dungeon tileset calciumtrice simple_65
+    21300132: dungeon tileset calciumtrice simple_66
+    21300134: dungeon tileset calciumtrice simple_67
+    21300136: dungeon tileset calciumtrice simple_68
+    21300138: dungeon tileset calciumtrice simple_69
+    21300140: dungeon tileset calciumtrice simple_70
+    21300142: dungeon tileset calciumtrice simple_71
+    21300144: dungeon tileset calciumtrice simple_72
+    21300146: dungeon tileset calciumtrice simple_73
+    21300148: dungeon tileset calciumtrice simple_74
+    21300150: dungeon tileset calciumtrice simple_75
+    21300152: dungeon tileset calciumtrice simple_76
+    21300154: dungeon tileset calciumtrice simple_77
+    21300156: dungeon tileset calciumtrice simple_78
+    21300158: dungeon tileset calciumtrice simple_79
+    21300160: dungeon tileset calciumtrice simple_80
+    21300162: dungeon tileset calciumtrice simple_81
+    21300164: dungeon tileset calciumtrice simple_82
+    21300166: dungeon tileset calciumtrice simple_83
+    21300168: dungeon tileset calciumtrice simple_84
+    21300170: dungeon tileset calciumtrice simple_85
+    21300172: dungeon tileset calciumtrice simple_86
+    21300174: dungeon tileset calciumtrice simple_87
+    21300176: dungeon tileset calciumtrice simple_88
+    21300178: dungeon tileset calciumtrice simple_89
+    21300180: dungeon tileset calciumtrice simple_90
+    21300182: dungeon tileset calciumtrice simple_91
+    21300184: dungeon tileset calciumtrice simple_92
+    21300186: dungeon tileset calciumtrice simple_93
+    21300188: dungeon tileset calciumtrice simple_94
+    21300190: dungeon tileset calciumtrice simple_95
+    21300192: dungeon tileset calciumtrice simple_96
+    21300194: dungeon tileset calciumtrice simple_97
+    21300196: dungeon tileset calciumtrice simple_98
+    21300198: dungeon tileset calciumtrice simple_99
+    21300200: dungeon tileset calciumtrice simple_100
+    21300202: dungeon tileset calciumtrice simple_101
+    21300204: dungeon tileset calciumtrice simple_102
+    21300206: dungeon tileset calciumtrice simple_103
+    21300208: dungeon tileset calciumtrice simple_104
+    21300210: dungeon tileset calciumtrice simple_105
+    21300212: dungeon tileset calciumtrice simple_106
+    21300214: dungeon tileset calciumtrice simple_107
+    21300216: dungeon tileset calciumtrice simple_108
+    21300218: dungeon tileset calciumtrice simple_109
+    21300220: dungeon tileset calciumtrice simple_110
+    21300222: dungeon tileset calciumtrice simple_111
+    21300224: dungeon tileset calciumtrice simple_112
+    21300226: dungeon tileset calciumtrice simple_113
+    21300228: dungeon tileset calciumtrice simple_114
+    21300230: dungeon tileset calciumtrice simple_115
+    21300232: dungeon tileset calciumtrice simple_116
+    21300234: dungeon tileset calciumtrice simple_117
+    21300236: dungeon tileset calciumtrice simple_118
+    21300238: dungeon tileset calciumtrice simple_119
+    21300240: dungeon tileset calciumtrice simple_120
+    21300242: dungeon tileset calciumtrice simple_121
+    21300244: dungeon tileset calciumtrice simple_122
+    21300246: dungeon tileset calciumtrice simple_123
+    21300248: dungeon tileset calciumtrice simple_124
+    21300250: dungeon tileset calciumtrice simple_125
+    21300252: dungeon tileset calciumtrice simple_126
+    21300254: dungeon tileset calciumtrice simple_127
+    21300256: dungeon tileset calciumtrice simple_128
+    21300258: dungeon tileset calciumtrice simple_129
+    21300260: dungeon tileset calciumtrice simple_130
+    21300262: dungeon tileset calciumtrice simple_131
+    21300264: dungeon tileset calciumtrice simple_132
+    21300266: dungeon tileset calciumtrice simple_133
+    21300268: dungeon tileset calciumtrice simple_134
+    21300270: dungeon tileset calciumtrice simple_135
+    21300272: dungeon tileset calciumtrice simple_136
+    21300274: dungeon tileset calciumtrice simple_137
+    21300276: dungeon tileset calciumtrice simple_138
+    21300278: dungeon tileset calciumtrice simple_139
+    21300280: dungeon tileset calciumtrice simple_140
+    21300282: dungeon tileset calciumtrice simple_141
+    21300284: dungeon tileset calciumtrice simple_142
+    21300286: dungeon tileset calciumtrice simple_143
+    21300288: dungeon tileset calciumtrice simple_144
+    21300290: dungeon tileset calciumtrice simple_145
+    21300292: dungeon tileset calciumtrice simple_146
+    21300294: dungeon tileset calciumtrice simple_147
+    21300296: dungeon tileset calciumtrice simple_148
+    21300298: dungeon tileset calciumtrice simple_149
+    21300300: dungeon tileset calciumtrice simple_150
+    21300302: dungeon tileset calciumtrice simple_151
+    21300304: dungeon tileset calciumtrice simple_152
+    21300306: dungeon tileset calciumtrice simple_153
+    21300308: dungeon tileset calciumtrice simple_154
+    21300310: dungeon tileset calciumtrice simple_155
+    21300312: dungeon tileset calciumtrice simple_156
+    21300314: dungeon tileset calciumtrice simple_157
+    21300316: dungeon tileset calciumtrice simple_158
+    21300318: dungeon tileset calciumtrice simple_159
+    21300320: dungeon tileset calciumtrice simple_160
+    21300322: dungeon tileset calciumtrice simple_161
+    21300324: dungeon tileset calciumtrice simple_162
+    21300326: dungeon tileset calciumtrice simple_163
+    21300328: dungeon tileset calciumtrice simple_164
+    21300330: dungeon tileset calciumtrice simple_165
+    21300332: dungeon tileset calciumtrice simple_166
+    21300334: dungeon tileset calciumtrice simple_167
+    21300336: dungeon tileset calciumtrice simple_168
+    21300338: dungeon tileset calciumtrice simple_169
+    21300340: dungeon tileset calciumtrice simple_170
+    21300342: dungeon tileset calciumtrice simple_171
+    21300344: dungeon tileset calciumtrice simple_172
+    21300346: dungeon tileset calciumtrice simple_173
+    21300348: dungeon tileset calciumtrice simple_174
+    21300350: dungeon tileset calciumtrice simple_175
+    21300352: dungeon tileset calciumtrice simple_176
+    21300354: dungeon tileset calciumtrice simple_177
+    21300356: dungeon tileset calciumtrice simple_178
+    21300358: dungeon tileset calciumtrice simple_179
+    21300360: dungeon tileset calciumtrice simple_180
+    21300362: dungeon tileset calciumtrice simple_181
+    21300364: dungeon tileset calciumtrice simple_182
+    21300366: dungeon tileset calciumtrice simple_183
+    21300368: dungeon tileset calciumtrice simple_184
+    21300370: dungeon tileset calciumtrice simple_185
+    21300372: dungeon tileset calciumtrice simple_186
+    21300374: dungeon tileset calciumtrice simple_187
+    21300376: dungeon tileset calciumtrice simple_188
+    21300378: dungeon tileset calciumtrice simple_189
+    21300380: dungeon tileset calciumtrice simple_190
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice simple_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 393
+        width: 146
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon tileset calciumtrice simple_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 341
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
