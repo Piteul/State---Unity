@@ -1,4 +1,6 @@
 # State-Unity
-Game using State in Unity
+A simple game using State system in Unity.
 
-![alt text](Assets/Resources/Capture.PNG)
+<p align="center">
+  <img width="460" height="300" src="Assets/Resources/Capture.PNG">
+</p>
